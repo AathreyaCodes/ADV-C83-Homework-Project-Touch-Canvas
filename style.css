@@ -1,0 +1,13 @@
+body{
+    background-image: url(https://r1.ilikewallpaper.net/ipad-air-wallpapers/download/16892/Cartoon-hand-painted-Background-ipad-4-wallpaper-ilikewallpaper_com_1024.jpg);
+    background-position: center;
+    background-size: cover;
+}
+#myCanvas{
+    background-color: aliceblue;
+    border-width: 10px;
+    border-style: ridge;
+}
+h1{
+    color: #212121 !important;
+}
